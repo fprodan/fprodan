@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fprodan
-- 👀 I’m interested in React & DBMS & PLC
-- 🌱 I’m currently learning React, Javascript, Php
+- 👀 I’m interested in PLC, DBMS, mobile apps
+- 🌱 I’m currently learning PLC Tia Portal, Logix and Codesys
 - 📫 How to reach me: fprodan@sedoelectric.ro
 
 <!---
